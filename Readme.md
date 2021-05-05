@@ -1,6 +1,6 @@
-#Secrets
+# Secrets
 <br/>
-##App based on Whisper
+## App based on Whisper
 <br/>
 User can post their secrets anonymously.
 <br/>
